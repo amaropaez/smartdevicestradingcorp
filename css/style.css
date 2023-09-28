@@ -277,6 +277,8 @@ header {
     line-height: 1.5;
     color: var(--grayish-blue);
     margin-top: 1.5em;
+    font-size: 2rem;
+
 }
 
 .track__img {
